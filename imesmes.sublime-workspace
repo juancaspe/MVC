@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bind_para",
+				"mysqli_bind_param"
+			],
+			[
 				"abs",
 				"abstract"
 			],
@@ -64,50 +68,50 @@
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "controllers/memeController.php",
 			"settings":
 			{
-				"buffer_size": 625,
+				"buffer_size": 1114,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "aplication/View.php",
+			"file": "/C/wamp/www/fbadmin/controllers/postController.php",
 			"settings":
 			{
-				"buffer_size": 578,
+				"buffer_size": 2464,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/wamp/www/templates/index.html",
+			"file": "views/meme/publicar.phtml",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 431,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "aplication/Request.php",
+			"file": "views/meme/index.phtml",
 			"settings":
 			{
-				"buffer_size": 832,
+				"buffer_size": 78,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "controllers/indexController.php",
+			"file": "models/memeModel.php",
 			"settings":
 			{
-				"buffer_size": 316,
+				"buffer_size": 768,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "views/index/index.phtml",
+			"file": "/C/wamp/www/fbadmin/models/postModel.php",
 			"settings":
 			{
-				"buffer_size": 16,
+				"buffer_size": 1380,
 				"line_ending": "Windows"
 			}
 		},
@@ -115,7 +119,15 @@
 			"file": "aplication/Controller.php",
 			"settings":
 			{
-				"buffer_size": 486,
+				"buffer_size": 913,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/fbadmin/aplication/Controller.php",
+			"settings":
+			{
+				"buffer_size": 1237,
 				"line_ending": "Windows"
 			}
 		}
@@ -147,25 +159,44 @@
 	},
 	"file_history":
 	[
-		"/C/wamp/www/imemes/aplication/Bootstrap.php",
-		"/C/wamp/www/fbadmin/aplication/Request.php",
+		"/C/Users/Juan/AppData/Local/Temp/Rar$DIa0.816/Image.php",
+		"/C/wamp/www/mesmes/autoload.php",
+		"/C/Users/Juan/AppData/Local/Temp/Rar$DIa0.589/ImageServiceProvider.php",
+		"/C/wamp/www/mesmes/ajax/publicar.php",
+		"/E/xampp/htdocs/mesmeslocos.com/ajax/publicar.php",
+		"/E/xampp/htdocs/mesmeslocos.com/funciones.php",
+		"/C/wamp/www/mesmes/funciones.php",
+		"/C/wamp/www/mesmes/upload.php",
+		"/C/wamp/www/fbadmin/aplication/Bootstrap.php",
+		"/C/wamp/www/imemes/aplication/Request.php",
 		"/C/wamp/www/fbadmin/aplication/Controller.php",
+		"/C/wamp/www/imemes/index.php",
+		"/C/wamp/www/imemes/aplication/Bootstrap.php",
+		"/C/wamp/www/fbadmin/models/postModel.php",
+		"/C/wamp/www/imemes/aplication/Model.php",
+		"/C/wamp/www/imemes/models/memeModel.php",
+		"/C/wamp/www/fbadmin/aplication/Session.php",
+		"/C/wamp/www/imemes/views/meme/index.phtml",
+		"/C/wamp/www/imemes/aplication/View.php",
+		"/C/wamp/www/fbadmin/aplication/Model.php",
+		"/C/wamp/www/fbadmin/aplication/Database.php",
+		"/C/wamp/www/imemes/aplication/Database.php",
+		"/C/wamp/www/fbadmin/aplication/Config.php",
+		"/C/wamp/www/imemes/controllers/indexController.php",
+		"/C/wamp/www/imemes/views/layouts/default/header.php",
+		"/C/wamp/www/imemes/views/index/index.phtml",
+		"/C/wamp/www/fbadmin/views/layout/default/header.php",
+		"/C/wamp/www/imemes/aplication/Controller.php",
+		"/C/wamp/www/imemes/views/layouts/default/footer.php",
+		"/C/wamp/www/templates/index.html",
+		"/C/wamp/www/fbadmin/aplication/Request.php",
 		"/C/wamp/www/fbadmin/aplication/View.php",
 		"/C/wamp/www/fbadmin/controllers/indexController.php",
-		"/C/wamp/www/fbadmin/aplication/Bootstrap.php",
-		"/C/wamp/www/imemes/index.php",
-		"/C/wamp/www/imemes/aplication/Request.php",
 		"/C/wamp/www/imemes/aplication/Config.php",
 		"/C/wamp/www/fbadmin/index.php",
-		"/C/wamp/www/fbadmin/aplication/Config.php",
-		"/C/wamp/www/imemes/aplication/Database.php",
-		"/C/wamp/www/imemes/aplication/View.php",
-		"/C/wamp/www/imemes/aplication/Model.php",
-		"/C/wamp/www/imemes/aplication/Controller.php",
 		"/C/wamp/www/imemes/aplication/config.php",
 		"/C/wamp/www/mesmeslocos.com/test/ajax.php",
 		"/C/wamp/www/fbadmin/controllers/postController.php",
-		"/C/wamp/www/fbadmin/aplication/Session.php",
 		"/C/wamp/www/fbadmin/controllers/loginController.php",
 		"/C/wamp/www/fbadmin/controllers/errorController.php",
 		"/C/wamp/www/fbadmin/views/error/access.phtml",
@@ -176,7 +207,6 @@
 		"/C/Users/Juan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Juan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/wamp/www/fbadmin/views/post/js/nuevo.js",
-		"/C/wamp/www/fbadmin/models/postModel.php",
 		"/E/xampp/htdocs/fbadmin/controllers/postController.php",
 		"/E/xampp/htdocs/fbadmin/views/layout/default/header.php",
 		"/E/xampp/htdocs/fbadmin/views/post/nuevo.phtml",
@@ -186,7 +216,6 @@
 		"/E/xampp/htdocs/fbadmin/aplication/Controller.php",
 		"/E/xampp/htdocs/fbadmin/views/post/index.phtml",
 		"/E/xampp/htdocs/fbadmin/views/layout/default/footer.php",
-		"/E/xampp/htdocs/mesmeslocos.com/funciones.php",
 		"/F/WWW/tonomundial.com/down/descargar.php",
 		"/F/WWW/tonomundial.com/utilidades.php",
 		"/E/xampp/htdocs/fbadmin/controllers/indexController.php",
@@ -215,6 +244,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"postInt",
+			"editar",
+			"$id",
 			"		\n",
 			"protected",
 			"function",
@@ -243,24 +275,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "controllers/memeController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 625,
+						"buffer_size": 1114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								555,
-								555
+								996,
+								996
 							]
 						],
 						"settings":
@@ -268,53 +300,54 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 162.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "aplication/View.php",
+					"file": "/C/wamp/www/fbadmin/controllers/postController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 578,
+						"buffer_size": 2464,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								838,
+								838
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 329.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/C/wamp/www/templates/index.html",
+					"file": "views/meme/publicar.phtml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 431,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								328,
+								328
 							]
 						],
 						"settings":
@@ -329,19 +362,46 @@
 				},
 				{
 					"buffer": 3,
-					"file": "aplication/Request.php",
-					"semi_transient": false,
+					"file": "views/meme/index.phtml",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 832,
+						"buffer_size": 78,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								31,
-								25
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "models/memeModel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
 							]
 						],
 						"settings":
@@ -356,55 +416,29 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "controllers/indexController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								288,
-								288
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 5,
-					"file": "views/index/index.phtml",
+					"file": "/C/wamp/www/fbadmin/models/postModel.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16,
+						"buffer_size": 1380,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11,
-								11
+								5,
+								5
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -415,23 +449,52 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 486,
+						"buffer_size": 913,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								280,
-								280
+								724,
+								724
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/fbadmin/aplication/Controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
